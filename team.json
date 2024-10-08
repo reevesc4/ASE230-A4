@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Capt. Helena Vance",
+    "title": "Founder & CEO",
+    "image": "images/team/1.jpg"
+  },
+  {
+    "name": "Dr. Hiroshi Nakamura",
+    "title": "CTO",
+    "image": "images/team/4.jpg"
+  },
+  {
+    "name": "Leo Rodriguez",
+    "title": "Chief of Design",
+    "image": "images/team/2.jpg"
+  },
+  {
+    "name": "Ava O'Connell",
+    "title": "VP of Operations",
+    "image": "images/team/3.jpg"
+  },
+  {
+    "name": "Dr. Imani Okoro",
+    "title": "Head of AeroAcademy™",
+    "image": "images/user/img-1.jpg"
+  }
+]
